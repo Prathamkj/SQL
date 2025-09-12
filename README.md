@@ -7,8 +7,7 @@ FROM Queries
 GROUP BY query_name;
 ----- 
 
-ChatGPT said:
-Thought for 12s
+
 
 Nice — let’s make SQL joins easy and practical. Below I’ll explain how to choose a join in plain language, give small examples, show the exact SQL to use, and point out common pitfalls and tips.
 
